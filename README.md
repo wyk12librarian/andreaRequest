@@ -1,2 +1,2 @@
-# tinawina
-A webpage for ma girlfriend 
+# Promposal
+A webpage for a student wanting an HTML promposal
